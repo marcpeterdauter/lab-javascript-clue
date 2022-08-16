@@ -125,5 +125,5 @@ function pickMystery() {
 // ITERATION 3
 
 function revealMystery(someObj) {
-  return `${someObj.suspect.firstName} ${someObj.suspect.lastName} killed Mr. Boddy using the ${someObj.weapon.name} in the ${someObj.room.name}!`;
+  return `${someObjsuspect.firstName} ${someObjsuspect.lastName} killed Mr. Boddy using the ${someObjweapon.name} in the ${someObj.room.name}!`;
 }
